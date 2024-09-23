@@ -1,0 +1,35 @@
+.product-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-start;
+  }
+  
+  .carousel img {
+    width: 100px;
+    margin: 10px;
+  }
+  
+  .product-info {
+    max-width: 500px;
+  }
+  
+  .rating {
+    display: flex;
+    align-items: center;
+  }
+  
+  .buy-button {
+    background-color: #28d885;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  img {
+    max-height: 400px;
+    object-fit: cover;
+  }
+  
+  

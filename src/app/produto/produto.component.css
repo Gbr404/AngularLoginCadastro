@@ -1,0 +1,44 @@
+.produto-container {
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 100px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .produto-container h2 {
+    text-align: center;
+  }
+  
+  .produto-container div {
+    margin-bottom: 15px;
+  }
+  
+  .produto-container label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .produto-container input,
+  .produto-container textarea {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+  }
+  
+  .produto-container button {
+    width: 100%;
+    padding: 10px;
+    background-color: #28d885;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .produto-container button:hover {
+    background-color: #28d885;
+  }
+  
